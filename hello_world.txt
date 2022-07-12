@@ -1,1 +1,3 @@
 My name is Josue Torres
+
+Utilizando commit desde VScode por primera vez
